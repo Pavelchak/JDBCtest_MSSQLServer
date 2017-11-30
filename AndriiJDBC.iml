@@ -10,8 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="9.0" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: com.microsoft.sqlserver:mssql-jdbc:6.2.2.jre8" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml.bind:jaxb-api:2.3.0" level="project" />
   </component>
 </module>

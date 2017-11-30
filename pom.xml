@@ -17,6 +17,12 @@
             <version>6.2.2.jre8</version>
         </dependency>
 
+        <!--для 9 Java-->
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>2.3.0</version>
+        </dependency>
     </dependencies>
 
 </project>
